@@ -7,7 +7,7 @@ Not only does this project have a charming design but it also has industry stand
  email address, phone number, id number stored on firebase. <br/><br/>
 *Use Registered user credentials to log into app<br/><br/>
 *Landing Page with beatiful animation & hamburger menu for user profile,<br/>
-order details, reviews & logout page<br/>
+order details, reviews & logout page<br/><br/>
 *Main Shopping page with shopping cart, offers on sale<br/>
 fragrances & sorting functionality.<br/><br/>
 *Shopping card with cash on delivery/ online payment methods.<br/><br/>
