@@ -29,7 +29,9 @@ fragrances & sorting functionality.<br/><br/>
 <h2>DISCLAIMER: </h2>
 <p>NO AI OR TEMPLATES WERE USED IN THE CREATION OF THIS PROJECT</p>
 <p align="center"> SCREENSHOTS: </p>
+<img width="1366" height="720" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/a10415c1-bab2-494f-9d34-3cb0a3ffb99f" />
+<img width="1366" height="724" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/900dc2f7-f4f4-40a2-adf1-bf88ee560d34" />
+<img width="1366" height="724" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/90910108-2517-4499-8f6e-98dff4d358ce" />
+<img width="1366" height="724" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/a0c2644d-6960-44ea-9568-8531aa10b9a7" />
 
-<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/98b5b029-dddd-474e-b201-eaada9e751af" />
-<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/020c993f-0ff2-42a3-996b-4ec3cb6a41a6" />
-<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/fbba9943-fe42-481e-907e-d7b0f9453951" />
+
