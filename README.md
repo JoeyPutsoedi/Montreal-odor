@@ -3,13 +3,13 @@ Montreal Odör
 <h1>Description</h1>
 <p><em> <strong>mobile first online fragrance for him & her<br/></em></strong>
 Not only does this project have a charming design but it also has industry standard functionality <br/><br/>
-*Register New Users - user first name, last name <br/> 
- email address, phone number, id number stored on firebase. <br/>
-*Use Registered user credentials to log into app<br/>
+*Register New Users - user first name, last name <br/>
+ email address, phone number, id number stored on firebase. <br/><br/>
+*Use Registered user credentials to log into app<br/><br/>
 *Landing Page with beatiful animation & hamburger menu for user profile,<br/>
-order details, reviews & logout page
+order details, reviews & logout page<br/>
 *Main Shopping page with shopping cart, offers on sale<br/>
-fragrances & sorting functionality.<br/>
+fragrances & sorting functionality.<br/><br/>
 *Shopping card with cash on delivery/ online payment methods.<br/><br/>
   
 <h1>Languages and Utilities</h1>
