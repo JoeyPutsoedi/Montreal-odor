@@ -14,7 +14,7 @@ fragrances & sorting functionality.<br/><br/>
   
 <h1>Languages and Utilities</h1>
 <ul>
-  <li>Dart/li>
+  <li>Dart</li>
   <li>Flutter</li>
   <li>Firebase</li>
 </ul>
