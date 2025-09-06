@@ -32,6 +32,7 @@ fragrances & sorting functionality.<br/><br/>
 <img width="1366" height="720" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/a10415c1-bab2-494f-9d34-3cb0a3ffb99f" />
 <img width="1366" height="724" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/900dc2f7-f4f4-40a2-adf1-bf88ee560d34" />
 <img width="1366" height="724" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/90910108-2517-4499-8f6e-98dff4d358ce" />
-<img width="1366" height="724" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/a0c2644d-6960-44ea-9568-8531aa10b9a7" />
+<img width="1366" height="728" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/bf4951e7-7c34-415f-a4bd-872471006201" />
+
 
 
