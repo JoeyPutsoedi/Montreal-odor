@@ -1,11 +1,11 @@
-# five-star-questionnaire
-The Five Star Questionnaire
+# montreal oder
+Montreal Odor
 <h1>Description</h1>
-<p>A Fun small project created entirely in 48 hours as a challenge to see how much i can do with such little time.<br>
-This Questionnaire with 9 general knowledge questions and a scoring system
-was made from scratch using just html, css and Javascript. <br>
-Everytime you use a hint you lose 1 point.<br>
-you cannot change your answer once you have answered.<br>
+<p>A mobile first online fragrance for him & her<br/>
+not only does this project have a charming design but it also has industry standard functionality <br>
+*Register New Users - user first name, last name <br/> 
+  email address, phone number, id number stored on firebase. <br/>
+*Use Registered user credentials to log into app<br/>
 the game awards two titles "Novice" for bad or average perfomance and "Golden Wanderer" for good performance.
 </p>
 <h1>Languages and Utilities</h1>
